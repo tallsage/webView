@@ -20,6 +20,9 @@
       "supportsTablet": true
     },
     "android": {
+      "packege": "com.botostore.webView",
+      "versionCode": 1,
+      "premissions": [],
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
